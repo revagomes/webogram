@@ -1,4 +1,4 @@
-FROM node:17.4-slim
+FROM node:17.7.1-slim
 
 ADD . /opt/webogram
 WORKDIR /opt/webogram
